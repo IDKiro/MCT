@@ -79,10 +79,11 @@ Here `(task name)` can be `day2dusk` or `summer2autumn`.
 If you find this work useful for your research, please cite our paper:
 
 ```bibtex
-@article{song2022multi,
+@inproceedings{song2022multi,
   title={Multi-Curve Translator for High-Resolution Photorealistic Image Translation},
   author={Song, Yuda and Qian, Hui and Du, Xin},
-  journal={arXiv preprint arXiv:2203.07756},
+  booktitle={European Conference on Computer Vision},
+  pages={126--143},
   year={2022}
 }
 ```
